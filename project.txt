@@ -1,1 +1,1 @@
-Merging means combining changes from one branch to another.
+Merging means combining changes from one branch to another. git stash
